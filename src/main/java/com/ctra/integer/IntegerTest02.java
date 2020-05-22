@@ -1,6 +1,6 @@
 package com.ctra.integer;
 
-import javax.xml.bind.SchemaOutputResolver;
+
 
 public class IntegerTest02 {
 

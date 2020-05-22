@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c7af434-db37-4f4d-bf1d-f00bde41f3b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ctra/integer/Asked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ctra/integer/IntegerTest03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ctra/integer/IntegerTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ctra/integer/IntegerTest02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590117393821</updated>
-      <workItem from="1590117399275" duration="3723000" />
+      <workItem from="1590117399275" duration="7866000" />
     </task>
     <servers />
   </component>
